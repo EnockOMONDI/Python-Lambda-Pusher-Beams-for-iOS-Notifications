@@ -1,7 +1,6 @@
 from pusher_push_notifications import PushNotifications
 import requests
 
-
 def lambda_handler(event, context):
     beams_client = PushNotifications(
                 instance_id='0fb4a756-8780-4425-b393-3c7855470d99',

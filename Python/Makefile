@@ -1,6 +1,6 @@
 # Update this to give whichever name you want. This may be set on the command line:
 # > make build OUT_FILE=../outfile.zip
-OUT_FILE?=../deliverable.zip
+OUT_FILE?=./Python.zip
 
 ### Below this point it should not need to be changed
 # get absolute path of zipfile to deliver
