@@ -2,7 +2,7 @@
 
 An example project that accompanies my tutorial on using AWS Python Lambda and Pusher Beams for iOS Notifications.
 
-https://pusher.com/tutorials/aws-lambda-python-ios-notifications
+https://pusher.com/tutorials/push-notifications-ios-python-aws-lambda
 
 ## Getting Started
 
